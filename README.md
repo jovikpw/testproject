@@ -1,5 +1,5 @@
-You need to intall:
-* composer intall
+You need to install:
+* composer install
 * php artisan key:generate
 * create database using xampp
 * set the database in env
