@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;  
+    justify-content: center;
+  } 
+
+  .flex-container > div {
+    position: static;
+    background-color: #ffffff;
+    margin: 100px;
+    padding: 100px;
+    font-size: 50px;
+    text-align: center;
+    line-height: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  img {
+      width: 100%
+  }
+
+  input[type="file"]{
+    background: #3490dc;
+    color: #ffffff;
+    border:0px;
+    border-radius: 5px;
+    border-radius: 2px;
+    padding: 2px;
+  }
+  input[type="submit"]{
+    background: #3490dc;
+    color: #ffffff;
+    border:0px;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 20px, auto
+  }
